@@ -1,4 +1,11 @@
 ### Hi there, I'm Anderson 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonUfop&show_icons=true&theme=tokyonight)
+<br /> <br /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonUfop&theme=tokyonight)](https://github.com/AndersonUfop)
+
+
+
 I currently work with Full Stack development, mainly in Node JS, React JS and React Native.
 
 I am also a specialist in Java, PHP and mobile development.
