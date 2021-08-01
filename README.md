@@ -1,29 +1,48 @@
 ### Hi there, I'm Anderson 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonUfop&show_icons=true&theme=tokyonight)
-<br /> <br /> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonUfop&theme=tokyonight)](https://github.com/AndersonUfop)
+<div>
+  <a href="https://github.com/AndersonUfop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonUfop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/AndersonUfop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonUfop&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Anderson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Anderson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
+  
+  ##
 
+<!--
 
+🔭  I currently work with Full Stack development, mainly in Node JS, React JS and React Native.
 
-I currently work with Full Stack development, mainly in Node JS, React JS and React Native.
+🌱  I am also a specialist in JavaScript, TypeScript and mobile development.
 
-I am also a specialist in Java, PHP and mobile development.
+📚 I am currently focused on improving my studies in Node JS, React JS and React Native.
 
-I am currently focused on improving my studies in Node JS, React JS and React Native.
+🎓 I am graduating from the 5th period of Information Systems.
 
-I am graduating from the 5th period of Information Systems.
-
-I also work with web development at Visão Tecnologia e Sistemas :green_heart:.
+💻 I also work with web development at Visão Tecnologia e Sistemas :green_heart:.
+-->
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
 ## Social media :iphone:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/Anderson130996)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc)](https://www.instagram.com/anderson_ff13)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
+<div> 
+  <a href="https://instagram.com/anderson_ff13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andersonfferreira96@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Anderson130996" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/anderson-fernandes96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
 <!--
 **AndersonUfop/AndersonUfop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
