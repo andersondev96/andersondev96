@@ -1,10 +1,10 @@
 ### Hi there, I'm Anderson 👋
 
 <div>
-  <a href="https://github.com/AndersonUfop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonUfop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/AndersonUfop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonUfop&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/andersondev96">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondev96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/andersondev96">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondev96&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
   
@@ -45,7 +45,7 @@
   
 
 <!--
-**AndersonUfop/AndersonUfop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andersondev96/andersondev96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
