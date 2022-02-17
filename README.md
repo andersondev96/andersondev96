@@ -17,7 +17,7 @@
   💬 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
   
    
-   ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+   ![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
      
 
    
@@ -103,7 +103,9 @@
   <a href="https://twitter.com/Anderson130996" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/anderson-fernandes96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ### My Contribuitions
+  <br>
+  
+  ## My Contribuitions
   
   ![Snake animation](https://github.com/andersondev96/andersondev96/blob/output/github-contribution-grid-snake.svg)
 
