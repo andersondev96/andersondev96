@@ -1,8 +1,8 @@
-### Hi there, I'm Anderson 👋
+## Hi there, I'm Anderson 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andersondev96&color=blue" alt="Profile views" /> </p>
 
   
-  ## About
+  ## 👤 About
   
   🔥 Exploring new technologies and developing new applications
   
@@ -21,7 +21,7 @@
      
 
    
-   ## Analytics
+   ## 📊 Analytics
 
 <div>
   <a href="https://github.com/andersondev96">
@@ -31,7 +31,7 @@
   </a>
 </div>
 
-## Techs
+## 🛠 Techs
 
 ### I have experience 
   
@@ -105,7 +105,7 @@
   
   <br>
   
-  ## My Contribuitions
+  ## 🤝 My Contribuitions
   
   ![Snake animation](https://github.com/andersondev96/andersondev96/blob/output/github-contribution-grid-snake.svg)
 
