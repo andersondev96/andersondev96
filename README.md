@@ -44,7 +44,6 @@
   <img align="center" alt="Anderson-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Anderson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Anderson-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Anderson-PG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="Anderson-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -66,7 +65,7 @@
 
 📚 I am currently focused on improving my studies in Node JS, React JS and React Native.
 
-🎓 I am graduating from the 5th period of Information Systems.
+🎓 I am graduated Information Systems.
 
 💻 I also work with web development at Visão Tecnologia e Sistemas :green_heart:.
 -->
@@ -81,26 +80,14 @@
   <a href = "mailto:andersonfferreira96@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/anderson_4nd" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/anderson-fernandes96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+  <!--
   <br>
   
   ## 🤝 My Contribuitions
   
   ![Snake animation](https://github.com/andersondev96/andersondev96/blob/output/github-contribution-grid-snake.svg)
 
-  
+  <--
 
-<!--
-**andersondev96/andersondev96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯I’m looking to collaborate  ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
