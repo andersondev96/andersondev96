@@ -1,35 +1,26 @@
-## 👋 Hey there, I'm Anderson!  
+## 👋 Olá pessoal, Eu sou o Anderson!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andersondev96&color=blue&style=for-the-badge)
 
 ---
 
-## 👤 About Me  
+## 👤 Sobre mim
 
-- **Full Stack Developer** specializing in **JavaScript, TypeScript, Node.js, and React.js**.  
-- Strong front-end expertise with **React.js, TypeScript, and JavaScript**.  
-- 🎓 **Graduated in Information Systems** from UFOP.  
-- Currently improving my **React.js** skills while learning **Vue.js and Angular.js**.  
+🎯 **Desenvolvedor Full Stack** apaixonado por criar aplicações escaláveis e eficientes.
 
-💻 Passionate about building scalable and efficient applications.  
-📚 Always exploring new technologies and best practices in development.  
+🚀 Epecializado em **JavaScript, TypeScript, Node.js e React.js**.
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+🎓 **Graduado em Sistemas de Informação** pela UFOP.  
 
----
+📚 Atualmente melhorando minhas habilidades em **React.js** enquanto aprendo **Vue.js e Angular.js**.  
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondev96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondev96&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+💡 Sempre em busca de novas tecnologias e melhores práticas em desenvolvimento!
 
 ---
 
 ## 🛠 Tech Stack  
 
-### 🚀 Technologies I work with:  
+### 🚀 Tecnologias que utilizo:  
 
 <p>
   <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -40,9 +31,19 @@
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </p>
 
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ---
 
-## 📱 Connect with Me  
+## 📊 GitHub Stats 
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondev96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondev96&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 📱 Entre em contato comigo
 
 <p>
   <a href="https://instagram.com/anderson_ff13">
@@ -61,6 +62,10 @@
 
 ---
 
-## 🤝 My Contributions  
+## 🤝 Minhas contribuições
 
 ![Snake animation](https://github.com/andersondev96/andersondev96/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+✨ Obrigado por visitar meu perfil! Sinta-se à vontade para contribuir ou entrar em contato! 🚀
