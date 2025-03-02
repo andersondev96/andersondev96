@@ -20,10 +20,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - name: Generate GitHub Contribution Snake (Light & Dark)
+        uses: Platane/snk@v3.2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
