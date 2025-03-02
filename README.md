@@ -64,7 +64,8 @@
 
 ## 🤝 Minhas contribuições
 
-![Snake animation](https://github.com/andersondev96/andersondev96/blob/output/github-contribution-grid-snake-dark.svg)
+
+![Snake animation](https://github.com/andersondev96/andersondev96/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
