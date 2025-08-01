@@ -8,11 +8,13 @@
 
 🎯 **Desenvolvedor Full Stack** apaixonado por criar aplicações escaláveis e eficientes.
 
-🚀 Epecializado em **JavaScript, TypeScript, Node.js e React.js**.
+🚀 Epecializado em **JavaScript, TypeScript, Node.js e React.js**, com domínio do ecossistema moderno de desenvolvimento web.
 
-🎓 **Graduado em Sistemas de Informação** pela UFOP.  
+🎓 **Graduado em Sistemas de Informação** pela UFOP.
 
-📚 Atualmente melhorando minhas habilidades em **React.js** enquanto aprendo **Vue.js e Angular.js**.  
+🎓 Cursando **MBA em Engenharia de Software** na USP/ESALQ.
+
+📚 Sempre aprimorando minhas habilidades em programação por meio do desenvolvimento de projetos pessoais, estudos exploração de novas linguagens e paradigmas de programação.
 
 💡 Sempre em busca de novas tecnologias e melhores práticas em desenvolvimento!
 
