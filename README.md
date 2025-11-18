@@ -21,20 +21,10 @@
 ---
 
 ## 🛠 Tech Stack  
-
-### 🚀 Tecnologias que utilizo:  
-
-<p>
-  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,flask,mysql,postgres,prisma,docker,git,github)](https://skillicons.dev)
 
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 ---
 
