@@ -38,7 +38,7 @@
 <br>
 
 <details>
-  <summary>PT <b>Clique para ler em português</b></summary>
+  <summary>🇧🇷 <b>Clique para ler em português</b></summary>
   
   <br />
   
