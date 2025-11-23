@@ -6,25 +6,22 @@
 
 ## 👤 Sobre mim
 
-🎯 **Desenvolvedor Full Stack** apaixonado por criar aplicações escaláveis e eficientes.
+🎯 **Desenvolvedor Full Stack** apaixonado por criar aplicações escaláveis, eficientes e de alta performance.
 
 🚀 Epecializado em **JavaScript, TypeScript, Node.js e React.js**, com domínio do ecossistema moderno de desenvolvimento web.
 
-🎓 **Graduado em Sistemas de Informação** pela UFOP.
+🎓 **Formação Acadêmica**
+* **MBA em Engenharia de Software** | USP/ESALQ (Em andamento)
+* **Bacharelado em Sistemas de Informação** | UFOP
 
-🎓 Cursando **MBA em Engenharia de Software** na USP/ESALQ.
+🧠 **Desenvolvimento Pessoal:** Priorizo o aprimoramento contínuo de competências como comunicação, liderança e organização.
 
-📚 Sempre aprimorando minhas habilidades em programação por meio do desenvolvimento de projetos pessoais, estudos exploração de novas linguagens e paradigmas de programação.
-
-💡 Sempre em busca de novas tecnologias e melhores práticas em desenvolvimento!
+📚 **Aprendizado Contínuo:** Mantenho-me atualizado explorando novos paradigmas de programação e aplicando melhores práticas em projetos pessoais.
 
 ---
 
 ## 🛠 Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,flask,mysql,postgres,prisma,docker,git,github)](https://skillicons.dev)
-
-
-<!-- ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 ---
 
@@ -35,26 +32,14 @@
 
 ## 📱 Entre em contato comigo
 
-<p>
-  <a href="https://instagram.com/anderson_ff13">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:andersonfferreira96@gmail.com.br">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://x.com/anderson_4nd">
-    <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/anderson-fernandes96/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<!-- ## 🤝 Minhas contribuições -->
-
-
-<!-- ![Snake animation](https://github.com/andersondev96/andersondev96/blob/output/github-contribution-grid-snake-dark.svg) -->
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderson_ff13)
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonfferreira96@gmail.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes96)
 
 ---
 
 ✨ Obrigado por visitar meu perfil! Sinta-se à vontade para contribuir ou entrar em contato! 🚀
+
+---
+
+EN-US
